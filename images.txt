@@ -1,3 +1,2 @@
 vulhub/weblogic
 mysql
-ngnix
